@@ -1,1 +1,2 @@
-fsjhj
+# Print hello
+print("hello")
